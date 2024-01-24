@@ -1,0 +1,54 @@
+
+.copy_right_footer{
+ position: fixed;
+ bottom:0;
+ font-size: 20px;
+ background-color: beige;
+ color:rgb(12, 182, 83);
+ text-align:center; 
+ text-shadow:5px 5px 7px grey;
+ 
+}
+
+#result_confidence{
+    font-family:cursive ;
+    font-size:22px;
+    font-style: italic;
+}
+
+body{
+    background-color:aquamarine;
+
+}
+
+.header_div{
+    background-color: lightblue;
+    color:rgb(11, 7, 67);
+    top:0;
+    width:100%;
+    
+    
+}
+
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:100;
+    letter-spacing:0.3ch;
+    font-size:15px;
+    
+}
+
+button{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-top:2%;
+    width:4%;
+    font-weight:200;
+    letter-spacing:4px;
+    color:white;
+    font-size: 20px;
+
+}
+
+h2{
+    font-size:50px;
+}
